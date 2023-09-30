@@ -9,13 +9,13 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Blazor.Server
 build_property.RootNamespace = Blazor.Server
-build_property.ProjectDir = c:\Users\Mbilima Basswell\Desktop\Everything Everything\Tech Space\C#\C sharp\Blazor\Ecommerce-using-blazor-Csharp\Blazor\Server\
+build_property.ProjectDir = C:\Users\Mbilima Basswell\Desktop\Everything Everything\Tech Space\C#\C sharp\Blazor\Ecommerce-using-blazor-Csharp\Blazor\Server\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\Mbilima Basswell\Desktop\Everything Everything\Tech Space\C#\C sharp\Blazor\Ecommerce-using-blazor-Csharp\Blazor\Server
+build_property.MSBuildProjectDirectory = C:\Users\Mbilima Basswell\Desktop\Everything Everything\Tech Space\C#\C sharp\Blazor\Ecommerce-using-blazor-Csharp\Blazor\Server
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/Mbilima Basswell/Desktop/Everything Everything/Tech Space/C\#/C sharp/Blazor/Ecommerce-using-blazor-Csharp/Blazor/Server/Pages/Error.cshtml]
+[C:/Users/Mbilima Basswell/Desktop/Everything Everything/Tech Space/C\#/C sharp/Blazor/Ecommerce-using-blazor-Csharp/Blazor/Server/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

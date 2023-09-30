@@ -38,6 +38,14 @@ a, .btn-link {
     color: red;
 }
 
+.original-price {
+    text-decoration: line-through;
+}
+.price {
+    color: #00ff4c;
+    font-weight: bold;
+}
+
 #blazor-error-ui {
     background: lightyellow;
     bottom: 0;

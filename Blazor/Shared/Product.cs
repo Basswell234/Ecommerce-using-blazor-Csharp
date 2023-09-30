@@ -7,7 +7,10 @@ public class Product
     public Decimal Price { get; set; }
     public Decimal OriginalPrice { get; set; }
     public bool IsPublic { get; set; }
+    public bool isDeleted { get; set; }
     public DateTime DateCreated { get; set; } = DateTime.Now;
     public DateTime DateUpdated { get; set; }
+    public Category Category { get; set; }
+    public int CategoryId { get; set; }
     
 }

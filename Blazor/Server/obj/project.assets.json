@@ -1272,11 +1272,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Mbilima Basswell\\Desktop\\Everything Everything\\Tech Space\\C#\\C sharp\\Blazor\\Ecommerce-using-blazor-Csharp\\Blazor\\Server\\Blazor.Server.csproj",
+      "projectUniqueName": "C:\\Users\\Mbilima Basswell\\Desktop\\Everything Everything\\Tech Space\\C#\\C sharp\\Blazor\\Ecommerce-using-blazor-Csharp\\Blazor\\Server\\Blazor.Server.csproj",
       "projectName": "Blazor.Server",
-      "projectPath": "c:\\Users\\Mbilima Basswell\\Desktop\\Everything Everything\\Tech Space\\C#\\C sharp\\Blazor\\Ecommerce-using-blazor-Csharp\\Blazor\\Server\\Blazor.Server.csproj",
+      "projectPath": "C:\\Users\\Mbilima Basswell\\Desktop\\Everything Everything\\Tech Space\\C#\\C sharp\\Blazor\\Ecommerce-using-blazor-Csharp\\Blazor\\Server\\Blazor.Server.csproj",
       "packagesPath": "C:\\Users\\Mbilima Basswell\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Mbilima Basswell\\Desktop\\Everything Everything\\Tech Space\\C#\\C sharp\\Blazor\\Ecommerce-using-blazor-Csharp\\Blazor\\Server\\obj\\",
+      "outputPath": "C:\\Users\\Mbilima Basswell\\Desktop\\Everything Everything\\Tech Space\\C#\\C sharp\\Blazor\\Ecommerce-using-blazor-Csharp\\Blazor\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1299,11 +1299,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Users\\Mbilima Basswell\\Desktop\\Everything Everything\\Tech Space\\C#\\C sharp\\Blazor\\Ecommerce-using-blazor-Csharp\\Blazor\\Client\\Blazor.Client.csproj": {
-              "projectPath": "c:\\Users\\Mbilima Basswell\\Desktop\\Everything Everything\\Tech Space\\C#\\C sharp\\Blazor\\Ecommerce-using-blazor-Csharp\\Blazor\\Client\\Blazor.Client.csproj"
+            "C:\\Users\\Mbilima Basswell\\Desktop\\Everything Everything\\Tech Space\\C#\\C sharp\\Blazor\\Ecommerce-using-blazor-Csharp\\Blazor\\Client\\Blazor.Client.csproj": {
+              "projectPath": "C:\\Users\\Mbilima Basswell\\Desktop\\Everything Everything\\Tech Space\\C#\\C sharp\\Blazor\\Ecommerce-using-blazor-Csharp\\Blazor\\Client\\Blazor.Client.csproj"
             },
-            "c:\\Users\\Mbilima Basswell\\Desktop\\Everything Everything\\Tech Space\\C#\\C sharp\\Blazor\\Ecommerce-using-blazor-Csharp\\Blazor\\Shared\\Blazor.Shared.csproj": {
-              "projectPath": "c:\\Users\\Mbilima Basswell\\Desktop\\Everything Everything\\Tech Space\\C#\\C sharp\\Blazor\\Ecommerce-using-blazor-Csharp\\Blazor\\Shared\\Blazor.Shared.csproj"
+            "C:\\Users\\Mbilima Basswell\\Desktop\\Everything Everything\\Tech Space\\C#\\C sharp\\Blazor\\Ecommerce-using-blazor-Csharp\\Blazor\\Shared\\Blazor.Shared.csproj": {
+              "projectPath": "C:\\Users\\Mbilima Basswell\\Desktop\\Everything Everything\\Tech Space\\C#\\C sharp\\Blazor\\Ecommerce-using-blazor-Csharp\\Blazor\\Shared\\Blazor.Shared.csproj"
             }
           }
         }

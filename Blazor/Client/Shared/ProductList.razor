@@ -1,0 +1,55 @@
+<ul class="list-unstyled">
+    @foreach(var product in products){
+        <li>
+            <div>
+                <a href="/product/@product.Id">
+                    <img src="@product.Image" alt="@product.Title" style="height: 250px; width: 300px">
+                </a>
+            </div>
+            <div>
+                <a href="/product/@product.Id">
+                    <h4>@product.Title</h4>
+                </a>
+                <p>@product.Description</p>
+                @if(@product.OriginalPrice > @product.Price){
+                    <h6 class="original-price">@product.OriginalPrice</h6>
+                }
+                <h5 class="price">@product.Price</h5>
+            
+            </div>
+        </li>
+    }
+
+</ul>
+
+@code{
+    List<Product> products = new List<Product>{
+        new Product{
+            Id = 1,
+            CategoryId = 1,
+            Title = "Guardian of the Galaxy",
+            Description = "Some text that doesnt even make sense as a description",
+            Image = "https://cdn.pixabay.com/photo/2023/09/25/15/59/tulip-8275472_1280.jpg",
+            Price = 9.59m,
+            OriginalPrice = 19.99m,      
+        },
+        new Product{
+            Id = 7,
+            CategoryId = 2,
+            Title = "The Maze Runner",
+            Description = "Some text that description",
+            Image = "https://cdn.pixabay.com/photo/2023/09/25/15/59/tulip-8275472_1280.jpg",
+            Price = 20.59m,
+            OriginalPrice = 50.99m,      
+        },
+        new Product{
+            Id = 6,
+            CategoryId = 3,
+            Title = "Lord of the Rings",
+            Description = "Some text that description just some random description",
+            Image = "https://cdn.pixabay.com/photo/2023/09/25/15/59/tulip-8275472_1280.jpg",
+            Price = 23.59m,
+            OriginalPrice = 40.99m,      
+        }
+    };
+}

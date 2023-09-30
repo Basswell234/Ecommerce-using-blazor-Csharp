@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sgQyMOCzNx4uxSc3ij8Dewrbe93gEmWHfBrS+LaVkB1NG26OjfPRldxAvMK9xCcB+Yiw81N4+a7bbZ+A7Dw5zQ==",
+  "dgSpecHash": "c0nl/1wADxdB4WVqB+tmzeKwqFTsPRLU2mj5DHSg33qNUDwsoTi68zU17Ps53FJ6sAxvSZ16qf2XThPo5p5rmA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Mbilima Basswell\\Desktop\\Everything Everything\\Tech Space\\C#\\C sharp\\Blazor\\Ecommerce-using-blazor-Csharp\\Blazor\\Server\\Blazor.Server.csproj",
+  "projectFilePath": "C:\\Users\\Mbilima Basswell\\Desktop\\Everything Everything\\Tech Space\\C#\\C sharp\\Blazor\\Ecommerce-using-blazor-Csharp\\Blazor\\Server\\Blazor.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mbilima Basswell\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.9\\microsoft.aspnetcore.authorization.7.0.9.nupkg.sha512",
     "C:\\Users\\Mbilima Basswell\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.9\\microsoft.aspnetcore.components.7.0.9.nupkg.sha512",
