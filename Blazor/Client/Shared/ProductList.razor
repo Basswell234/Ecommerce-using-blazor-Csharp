@@ -1,12 +1,12 @@
 <ul class="list-unstyled">
     @foreach(var product in products){
-        <li>
-            <div>
+        <li class="list">
+            <div class="media-img-wrapper">
                 <a href="/product/@product.Id">
-                    <img src="@product.Image" alt="@product.Title" style="height: 250px; width: 300px">
+                    <img class="media-img" src="@product.Image" alt="@product.Title">
                 </a>
             </div>
-            <div>
+            <div class="productinfo">
                 <a href="/product/@product.Id">
                     <h4>@product.Title</h4>
                 </a>
@@ -29,7 +29,7 @@
             CategoryId = 1,
             Title = "Guardian of the Galaxy",
             Description = "Some text that doesnt even make sense as a description",
-            Image = "https://cdn.pixabay.com/photo/2023/09/25/15/59/tulip-8275472_1280.jpg",
+            Image = "https://ichef.bbci.co.uk/images/ic/1200x675/p061d1pl.jpg",
             Price = 9.59m,
             OriginalPrice = 19.99m,      
         },
@@ -38,7 +38,7 @@
             CategoryId = 2,
             Title = "The Maze Runner",
             Description = "Some text that description",
-            Image = "https://cdn.pixabay.com/photo/2023/09/25/15/59/tulip-8275472_1280.jpg",
+            Image = "https://m.media-amazon.com/images/S/pv-target-images/4fe91d9317156e6ce416f6f4946c56aa8f1c3b4229007486f3423b798fb0e872.jpg",
             Price = 20.59m,
             OriginalPrice = 50.99m,      
         },
@@ -47,7 +47,7 @@
             CategoryId = 3,
             Title = "Lord of the Rings",
             Description = "Some text that description just some random description",
-            Image = "https://cdn.pixabay.com/photo/2023/09/25/15/59/tulip-8275472_1280.jpg",
+            Image = "https://cdn.akamai.steamstatic.com/steam/apps/212500/header.jpg?t=1656446044",
             Price = 23.59m,
             OriginalPrice = 40.99m,      
         }

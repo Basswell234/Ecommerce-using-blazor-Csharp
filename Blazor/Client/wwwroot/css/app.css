@@ -38,6 +38,33 @@ a, .btn-link {
     color: red;
 }
 
+.list{
+    display: flex;
+}
+
+.productinfo{
+    margin-left: 50px;
+}
+img{
+    max-width: 300px;
+    max-height: 250px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    transition: transform .2s;
+    
+}
+
+.media-img-wrapper{
+    height: 220px;
+    width:280px;
+    text-align: center;
+    
+}
+
+.media-img:hover {
+    transform: scale(1.1);
+}
+
 .original-price {
     text-decoration: line-through;
 }
